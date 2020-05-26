@@ -1,0 +1,54 @@
+#CUT camlet_2N
+    3C    ask for extra length in majors
+        3N (forcing) max., extra length in both majors
+            4!c/!d transfers to !h/!s
+            4!h/!s slammish in C/D (if this makes sense)
+        3RM extra length in RM alone
+            3N signoff
+            4M signoff
+            4C/D (if it makes sense) 44 in C/D + major, slammish
+            4OM (if it makes sense) balanced slam try in RM 
+        3OM extra length in OM alone
+            3N signoff
+            4M signoff
+            4C/D (if it makes sense) 44 in C/D + major, slammish
+            4RM (if it makes sense) balanced slam try in OM 
+        3D max. with no extra length or min. with both extra lengths
+            3H extra length in Spades.  Also bid this with extra length
+               in both majors, slammish since you do not want 3N to be passed
+               If opener bids 3S he is promising EL in both majors and a 
+               minimum and responder can sign off or make further slam tries.
+            3S extra length in Hearts.  If opener bids 4!h, 4!s is RKCB
+            3N extra length in both majors
+            4m (if it makes sense) natural, slammish with 44 in m and RM
+#ENDCUT
+
+
+#CUT camlet_1N
+    2C ask for extra length(EL) in majors.  One of two hand types inv+ with 5 cards in responder's major and/or 3 in OM; GF+ with exactly 4 cards in responder's major and 5+ cards in a minor
+        2D min. with EL in both M or max. with EL in zero/one
+            2RM ask for 3 cards in OM; Opener makes cheap/jump mbid in major/NT
+            2OM ask for 5 cards in RM; Opener makes cheap/jump bid in major/NT
+            2N F, 5-3 in majors. Opener may bid 3/4M or 3N
+            3m nat. slammish with 4M+5m
+            3M slammish, EL in bid suit.  Opener bids naturally
+               3N/4M anti-slammish ; cue slammish with fit ; 4N max. no fit
+            3N GF with 5-3 in majors 
+        2H min hand with extra length in Hearts only
+            raise - strongly urging
+            2S balanced slam try
+            JS splinter slam try
+            2/3N was looking for EL in Spades, to play
+            3m natural 5+ cards slammish
+        2S min hand with extra length in Spades only
+            raise strongly urging
+            3H balanced slam try
+            JS splinter slam try
+            2/3N was looking for EL in Hearts, to play
+            3m natural 5+ cards slammish
+        2N max hand with extra length in both majors
+            3m natural 5+ cards slammish
+            3M slammish OR choice of games. Opener bids 3N or cues
+            3N to play
+            4!c/!d transfer to 4!h/!s
+#ENDCUT 

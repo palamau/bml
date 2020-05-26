@@ -1,0 +1,11 @@
+#+TITLE: Camel
+
+#+AUTHOR: Rajendra Gokhale
+
+#+DESCRIPTION: A new bidding system
+
+#INCLUDE std_nomajor.txt
+#INCLUDE camlet.txt
+// #INCLUDE openings.txt
+#INCLUDE 1C.txt
+#INCLUDE 1d.txt

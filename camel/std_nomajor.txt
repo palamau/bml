@@ -1,0 +1,12 @@
+#CUT std_nomajor
+2C  either 54 in m or 6+!c, no 4cM, less than GF
+2D  either 55 in m or 6+!d, no 4cM, less than GF
+2H  GF, either balanced GF no 4cM, or 55 in m
+2S  GF, 64 in m, no 4cM
+2N  GF, 6+!c, no 4cM
+3C  GF, 6+!d, no 4cM
+3D  GF, 5+!d and 4+!c, no 4cM
+3H  GF, solid !c suit, no 4cM, invites cue bid
+3S  GF, solid !d suit, no 4cM, invites cue bid
+3N  to play, based on a solid !d minor
+#ENDCUT

@@ -1,0 +1,208 @@
+
+* The 1!c opening
+
+  1C---
+    1red 4+ !h/!s, 6+ hcp, may have longer suit elsewhere. 1!h denies 4 Hearts
+    1S   Hand too weak for responding 1!d/1!h/1N
+    1N   7-11 HCP, no 4cM, no shortage
+    #PASTE std_nomajor
+
+** After 1C-1!d/!h
+
+  1C-1!d/!h;
+  1!h/!s no four card fit for partner's major
+  1S (after 1C-1!d) 1RF - 5=3=(41) shape upto 19 HCP
+    1N relay to find out more
+        2C/D natural 10--13
+        2H 14--16 (2N asks and all non game bids are forcing)
+        2S 17--19 (2N asks and all non game bids are forcing)
+    2m signoff but opener must keep bidding open with a fit in that suit
+    2M signoff
+    3N signoff
+  1N balanced 15--17, no fit, implies 4/5 cards in other major
+  2C 4 card raise, strength unknown but likely to be minimum hand unless
+     opener would like partner to be declarer or if he wants to show a strong
+     raise with side minor
+    2D invitation.  Opener can signoff in 2M or make further tries etc.
+    2M signoff
+    any bid beyond 2M - natural slam try
+    3M GF, no slam interest unless opener has surprise hand
+  2D GF hand with at least 5!d.  Bidding is natural after this
+  2RM game forcing raise of responder's major, not unhappy about being declarer
+  2OM GF hand with 5+ Clubs.  Subsequent bidding is natural
+  2N balanced GF raise
+    #PASTE camlet_2N
+  3m roughly 14-16 HCP, 6+ cards, good controls (5m is possible) + other M
+  3RM 16-17 HCP balanced raise.
+    3N is an offer to play
+    newSuit asks partner to assume this is a splinter and evaluate accordingly
+  3M+1 17--19 HCP four card raise 4441.
+    Cheapest shortness ask.  Opener bids shortness (3N=H spl.)
+    4M signoff
+
+** After 1C-1!d/!h-1N
+
+  General principles:
+  - Transfers to 2M always promise undisclosed length except for "impossible
+    transfer"
+  - Camlet Stayman promises EL in at least one major OR slammish with 5m
+  - 2S is a 3 way bid and a range enquiry (invite with no EL OR signoff in 3m)
+
+
+  1C-1!d/!h;
+  1N---
+      #PASTE camlet_1N
+      2!d/!h transfer to !h/!s. Transfer to own major implies 5.
+             transfer to 2!h followed by 2!s is impossible transfer (see below)
+             transfer to own major followed by 2N is natural invitational
+             transfer followed by minor promises 5M+4m
+      2S range enquiry (opener bids 2N/3!c with min./max).
+         Resp. can pass or correct to 3!c or 3!d or 3!n
+      2N invitational hand with 5M + 5m.
+         Opener can bid 3!c/3!d as P/C, 3N/3M/4M
+      3!c/!d 5-5, slammish
+      3!h/3!s Sets suit as trump. On opener's forced relay shows shortness
+              After ... 3!h-3!s, 3N shows Spade shortage and 4!h is balanced
+              After ... 3!s-3!n, 4!s shows balanced hand
+      4!c Gerber
+      4!d/!h transfers to 4!h/!s
+
+** Impossible transfer 1C-1!d/!h-1N-2!d-2!h-2!s
+
+This is a mechanism for bidding when both hands are strong and balanced
+
+We have assigned an artificial meaning to the "impossible" sequence
+1C-1!d/!h-1N-2!d-2!h-2!s.  The reason I call this "impossible" is as
+follows:
+
+	- After 1!c-1!d-1N responder with 4+ Spades would transfer to S with 2!h
+	- After 1!c-1!h responder denied 4 Hearts. Thus 2!d transfer to H is
+      meaningless
+
+We therefore use the above sequence to describe a balanced hand with a side 4 card minor and slammish intents.  
+
+After this start
+
+1C-1!d/!h;
+1N-2D;
+2H-2S;
+3m 5 cards in bid suit (5422)
+3OM 5 cards in opener's major.  
+    With 5422 decide which feature to prioritize. Generally M is preferable
+    since you can later give a choice of contracts
+3RM maximum hand 4-3-3-3 shape.  Opener may sign off in 3NT 
+3NT minimum hand 4-3-3-3 shape
+2NT not a hand with 4-3-3-3 shape.  On this responder bids 3m naturally
+
+Important note - With 4-4-3-2 hands facing a balanced hand, you pretty much 
+need 33 HCP to make slam.  Make sure that you are assured of at least 32 
+HCP between the two hands before you embark on these auctions …
+
+*** Camlet Stayman with 5m+4M
+
+Whenever Camlet Stayman bidder bids 3m at his next turn, he is promising a
+GF and 5 cards in minor.  The general followup scheme is
+
+- 3N feels good about bidding 3N
+- 4m 4 card raise, no doubt about strain
+- 3H expresses doubt about stopper in fourth suit
+- Any other 3 level suit bid - at least three card raise
+
+
+** After 1C-1!d/!h-1!h/!s
+
+Opener has denied fit for other major and promised 4 cards in the other major.
+This is forcing since opener could possibly (discretionary) still have some strong balanced hands
+
+  1C-1!d/!h;
+  1!h/!s
+    1N signoff, upto bad 12 HCP
+        2m natural, passable
+        2RM 14 HCP, 3 card raise
+        2OM some strong GF hand, meaning undefined for now
+        2N 15-16, will probably have some 5 card minor
+        3m minimum hand but very good suit
+        3N to play (perhaps 22-23 HCP balanced)
+    2m Forcing; 5 cards in original major + 4 cards in minor.  Does not promise extras
+        2RM signoff, could be doubleton, not an exceptional hand
+        2OM fit for minor, weak or game force (14-17 with shortness).  Forcing to 3m
+        2N good 14 to bad 17 HCP with 5 cards in unbid minor
+        3m fit for minor, hand good enough to accept a 3N invite
+        3RM great hand with 3 card support for major, probably short in resp. minor
+        3N probably 22-23 HCP balanced
+    2RM-1 art. GF.  Opener bids naturally for now
+    2RM signoff
+    2S signoff
+    2N invitational
+    3m 6 cards, invitational values
+    3!h/!s natural, invitational
+    3N to play
+
+** After 1C-1!d/!h-2!h/!s
+
+This establishes a game force so the focus is now on exploring slam if it exists.  There is also a high likelihood that opener has first/second round controls in all suits since he could have chosen the alternative route of bidding 2C to make responder the declarer. 
+
+  1C-1!d!h;
+  2!h/!s--
+    cheapest extra shape, usually 5 trumps (e.g. AKxxx, xx, xxxx, xx) with weak side suit or extras with some feature (e.g. side 5 card suit Qx,Axxx,JT9xxx,x
+        3m natural
+        jump splinter
+    raise featureless 7-9 HCP or 12+ HCP.  On this 3M+1 is a serious slam try
+    3m natural with two of top three honors or extra values.
+    2N (after 2H) !s suit with two of top three honors or extra values
+    3H (after 2S) !h suit with two of top three honors or extra values
+    4M featureless 10--11 HCP
+    JS various splinters - specifically
+        3M + 1 - any splinter <= 9 HCP or 12+ and singleton in any of two suits
+        below agreed suit (!c/!d if H agreed, !d/!h is Spades agreed).  Partner
+        relays to find out shortness.  12+ hand makes one more try after signoff
+        3M + 2 - non fourth suit splinter 10--11 HCP - then Astro like responses to relay
+        3M + 3 - splinter in suit above agreed major, 12+ HCP
+        3M + 4 - splinter in that suit, 10--11 HCP
+
+** After 1C-1!s
+
+A 1!s response is roughly a 5 HCP or lesser hand if it contains a major and a 6
+HCP or lesser hand without one.
+
+
+  1C-1!s;
+  Pass    Opener has upto 19 HCP and 4/5 Spades. May have 4!h
+  1N      Upto 19 HCP, balanced hand with 4/5 H
+    2!c/!d/!h/!s   To play
+    2N    good hand with 4 Hearts
+    3m    good hand with six cards
+  2m 5 cards in minor + 4!h upto 18 HCP
+    2N    good hand with 4H
+    newSuit to play
+    raise promises Hxx in partner's suit
+    JS    big minor fit, promises ace in that suit
+  2H Bal. 22--23/26+, 4/5!h (4!s poss.) OR 4!s + m rev. strength OR GF 4=4=(41)
+    2S default action with most hands
+        2N bal. 22/23 with 4/5!h (see subsequent bidding below)
+        3m natural, reversing strength hand with 4!s
+        3!h/!s 4441 with short !c/!d
+        3N 26-27 HCP balanced with 4/5 !h
+    2N bust with some 6cm or both majors.
+        3!c/!d P/C on which resp. passes/corrects to 3!d or 3!h (P/C)
+        3N 26+ HCP bal. - responder bids naturally
+    3m six cards with shortage in other minor and 4/5 HCP
+    3M 4441 with shortage in C/D, upto 4 HCP
+  2S 4!h + m, rev.+
+    2N normal response, no 4!h
+        3!m nat. reversing strength
+        3!h/!s !c/!d GF (6-4)
+    3!d transfer to !h, GF
+  2N 22--23 bal. with 4/5!s and no 4!h.  
+  3N 26--27 bal. with 4/5!s and no 4!h.  
+
+** After 1C-1!s-2!h-2!s-2N
+
+  1C-1!s;
+  2H-2!s;
+  2N--
+      #PASTE camlet_2N
+      3D/H transfers to !h/!s
+      3S undefined
+      3N to play
+
